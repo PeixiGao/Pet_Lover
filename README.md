@@ -1,4 +1,5 @@
 ##Read me
+The project code is in the master branch.
 1.  To set up the environment, run "pip install -r requirements.txt"
 2.  To run the scrpt which add data to database, run " python populate_script "
 3.  To run the project, use " python manage.py runserver 0.0.0.0:800 "
